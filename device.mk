@@ -138,5 +138,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libwcnss_qmi
 
+TARGET_UNOFFICIAL_BUILD_ID := Umang96
+
 # Inherit from msm8939-common
 $(call inherit-product, device/cyanogen/msm8939-common/msm8939.mk)
