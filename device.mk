@@ -75,6 +75,10 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
     ro.usb.id.ums_adb=9015 \
     ro.usb.vid=05c6
 
+# Gello
+PRODUCT_PACKAGES += \
+    Gello
+
 # libhealthd library as the supplement of off-mode charging
 PRODUCT_PACKAGES += \
     libhealthd.tomato
