@@ -87,11 +87,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     YUDoze
 
-# Gestures
-PRODUCT_PACKAGES += \
-    ConfigPanel \
-    com.cyanogenmod.keyhandler
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8916
