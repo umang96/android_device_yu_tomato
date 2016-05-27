@@ -79,14 +79,6 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     Gello
 
-# libhealthd library as the supplement of off-mode charging
-PRODUCT_PACKAGES += \
-    libhealthd.tomato
-
-# Doze mode
-PRODUCT_PACKAGES += \
-    YUDoze
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8916
