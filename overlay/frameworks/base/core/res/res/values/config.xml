@@ -54,18 +54,18 @@
         <item>26</item>
         <item>28</item>
         <item>34</item>
-	    <item>35</item>
-	    <item>50</item>
-	    <item>55</item>
-	    <item>63</item>
-	    <item>94</item>
-	    <item>343</item>
+	<item>35</item>
+	<item>50</item>
+	<item>55</item>
+	<item>63</item>
+	<item>94</item>
+	<item>343</item>
         <item>670</item>
-	    <item>1021</item>
-	    <item>1693</item>
-	    <item>2681</item>
-	    <item>4476</item>
-	    <item>20000</item>
+	<item>1021</item>
+	<item>1693</item>
+	<item>2681</item>
+	<item>4476</item>
+	<item>20000</item>
         </integer-array>
 
     <!-- Array of output values for LCD backlight corresponding to the LUX values
@@ -89,18 +89,18 @@
         <item>100</item>
         <item>103</item>
         <item>103</item>
-	    <item>107</item>
-	    <item>115</item>
-	    <item>118</item>
-	    <item>122</item>
-	    <item>132</item>
-	    <item>163</item>
+	<item>107</item>
+	<item>115</item>
+	<item>118</item>
+	<item>122</item>
+	<item>132</item>
+	<item>163</item>
         <item>176</item>
-	    <item>186</item>
-	    <item>198</item>
-	    <item>209</item>
-	    <item>255</item>
-	    <item>255</item>
+	<item>186</item>
+	<item>198</item>
+	<item>209</item>
+	<item>255</item>
+	<item>255</item>
     </integer-array>
 
     <!-- Minimum allowable screen brightness to use in a very dark room.
